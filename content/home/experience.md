@@ -31,10 +31,8 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Developed and implemented solutions to track damaged packages in Python, managing to increase the coverage of the number of detected damaged packages
-        * Developed and implemented the new damage package declaration service using Javascript and React to reduce the number of damaged packages wrongly.
-        * Developed a new functionality using Javascript and React, which adds the creation date of the resolution of the  undelivered package, helping to avoid losing the undelivered package within the range of the final delivery date.
-         * Development of a new application that is responsible for managing the life cycle of a package from the barcode, developed in NodeJs, Typescript and React.
+        * Designed and implemented solutions to significantly reduce the time required to declare damaged packages, achieving a 10x improvement compared to the manual process. The new application uses machine learning for text detection to determine if a package is damaged, cloud storage via Amazon S3 to store damaged package photos, and programming languages like Python and JavaScript for development.
+        * Developed a chatbot to assist users with common inquiries, such as tracking missing packages and monitoring packages in progress. The chatbot improved response times by 5x compared to manual handling, enhancing customer satisfaction and operational efficiency.
         
   - title: Researcher
     company: Unicamp
@@ -45,9 +43,9 @@ experience:
     date_end: '2024-04-01'
     description: |2-
         Responsibilities included:
-        * Proposed of an image inpainting model leveraging both CNNs and transformers to address challenges posed by large missing regions.
-        * Developed of a novel variable hyperparameter strategy applied to the transformer to reduce the computational complexity.
-        * Proposed of a image inpainting model by incorporating auxiliary information from the pencil sketch domain, aiming to deal with structural and textural inconsistencies.
+        * Proposed of an image inpainting model leveraging both CNNs and transformers to address challenges posed by large missing regions, this proposal achieved competitive results in comparison with state-of-the-art methods.
+        * Developed of a novel variable hyperparameter strategy applied to the transformer to reduce the computational complexity. We achieved superior results in efficiency in comparison with recent methods, 3x times more efficient.
+        * Proposed of a image inpainting model by incorporating auxiliary information from the pencil sketch domain, aiming to deal with structural and textural inconsistencies. We achieved best results in some datasets like celebA and Paris StreetView datasets, and competitive resuls in Places 365 dataset.
 
   - title: Researcher
     company: Unicamp and Samsung Electronics America
@@ -58,7 +56,7 @@ experience:
     date_end: '2021-06-30'
     description: |2-
         Responsibilities include:
-        * Developed new algorithms based on scene representation (LDI and MPI) for the generation of parallax effect motion using a single image, achieving to propose a new light scene representation for restricted scenarios (e.g. cell phones).
+        * Developed new algorithms based on scene representation (LDI and MPI) for the generation of parallax effect motion using a single image, achieving to propose a new light scene representation for restricted scenarios (e.g. cell phones). We published an paper related to our proposal using LDI and MPI, achieving competitive results with recent methods based on MPI and parallax effect motion.
         * Implemented and evaluated new algorithms based on GANs and visual transformers for image inpainting, achieving competitive results in comparison with state-of-the-art methods.
 
   - title: Researcher
@@ -70,8 +68,8 @@ experience:
     date_end: '2020-03-31'
     description: |2-
         Responsibilities include:
-        * Implemented post-processing algorithms to solve problems related to text localization methods using Tesseract OCR, improving the accuracy by 4%.
-        * Developed and evaluated new algorithms for multilingual text localization and recognition in images on devices with low computational cost.
+        * Implemented post-processing algorithms to solve problems related to text localization methods using Tesseract OCR, improving the accuracy by 4% in comparison with state-of-the-art methods.
+        * Developed and evaluated new algorithms for multilingual text localization and recognition in images on devices with low computational cost.  
 
   - title: Researcher
     company: Unicamp
